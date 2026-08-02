@@ -1,5 +1,5 @@
 [project]
-name = "random-douni-api"
+name = "random-images-api"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
